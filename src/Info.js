@@ -23,6 +23,7 @@ const Info = (props) => {
 
                 {rech.name}
                 <br />
+                <br/>
                 <br />
                 <br />
                 {rech.description}
